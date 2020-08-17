@@ -34,3 +34,9 @@ The last step is to activate your Windows using the command “slmgr /ato”.
 ```
 slmgr /ato
 ```
+
+# Win XP Pro SP3 32bit
+Windows XP Professional 32-bit Edition
+```
+SP3 VOL 	M6TF9-8XQ2M-YQK9F-7TBB2-XGG88
+```
