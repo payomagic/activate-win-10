@@ -1,8 +1,8 @@
 # activate-win-10
 
-    Install KMS client key
+### Install KMS client key
 
-    Use the command “slmgr /ipk yourlicensekey” to install a license key (yourlicensekey is the activation key that corresponds to your Windows edition). The following is the list of Windows 10 Volume license keys.
+Use the command “slmgr /ipk yourlicensekey” to install a license key (yourlicensekey is the activation key that corresponds to your Windows edition). The following is the list of Windows 10 Volume license keys.
 
 ```
 slmgr /ipk yourlicensekey
@@ -20,14 +20,14 @@ slmgr /ipk yourlicensekey
     Enterprise: NPPR9-FWDCX-D2C8J-H872K-2YT43
     Enterprise N: DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4
 ```
-    Set KMS machine address
-
-    Use the command “slmgr /skms kms8.msguides.com” to connect to my KMS server.
-    Activate your Windows
+###    Set KMS machine address
+Use the command “slmgr /skms kms8.msguides.com” to connect to KMS server.
+Activate your Windows
     ```
     slmgr /skms kms8.msguides.com
     ```
 
+### Activate
     The last step is to activate your Windows using the command “slmgr /ato”.
 ```
 slmgr /ato
