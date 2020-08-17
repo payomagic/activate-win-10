@@ -23,12 +23,14 @@ slmgr /ipk yourlicensekey
 ###    Set KMS machine address
 Use the command “slmgr /skms kms8.msguides.com” to connect to KMS server.
 Activate your Windows
-    ```
-    slmgr /skms kms8.msguides.com
-    ```
+
+```
+slmgr /skms kms8.msguides.com
+```
 
 ### Activate
-    The last step is to activate your Windows using the command “slmgr /ato”.
+The last step is to activate your Windows using the command “slmgr /ato”.
+
 ```
 slmgr /ato
 ```
